@@ -1,0 +1,19 @@
+
+comandos=
+
+git init = repositorio
+
+git status = estado del repositorio
+
+rm -rf .git/ = borrar
+
+code .(carpeta actual) = (abrir gui)
+
+gid add/mv/rm (archivo) = para pasar a area de seguimiento/borrar
+
+git add . (para pasar absolutamente todo lo del directorio)
+
+git commit
+git te obliga a hacer un comentario para saber que tiene el commit
+git commit -m = hacer el mensaje desde la consola ("-" para poner espacios)
+
