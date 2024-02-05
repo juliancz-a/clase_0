@@ -22,3 +22,10 @@ desde github
 git remote add origin https://github.com/juliancz-a/clase_0.git
 
 git push origin master= sube los commits al remoto
+
+
+git clone
+pasar cambios al commit, que no estan en el local
+
+git pull origin master
+para pasar al area de trabajo . trae los commits nuevos del remoto
